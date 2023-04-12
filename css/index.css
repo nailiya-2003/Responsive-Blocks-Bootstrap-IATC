@@ -47,15 +47,15 @@
 }
 @media (max-width:575px) {
    .n_content {
-    min-height: 25vh;
+    min-height: 20vh;
     float: left;
     margin: 3vh 0;
 }
 .n_article {
-    min-height: 25vh;
+    min-height: 20vh;
 }
 .n_nav {
-    min-height: 25vh;
+    min-height: 20vh;
 }
 .container{
    padding-right: 0;
